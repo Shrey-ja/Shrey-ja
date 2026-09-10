@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Shreyas Jaiswal — a student exploring programming and AI.<br>🌱 Currently working with Python, C++, and learning Machine Learning.<br>🚀 Building projects to build a strong foundation in AI and software engineering.
+I’m Shreyas Jaiswal , a student exploring programming and AI.<br>🌱 Currently working with Python, C++, and learning Machine Learning.<br>🚀 Building projects to build a strong foundation in AI and software engineering.
 
 
 ## 🌐 Socials:
